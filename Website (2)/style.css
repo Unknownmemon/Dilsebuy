@@ -153,6 +153,9 @@ nav ul li:nth-child(4) a:hover{
     border-radius: 50%;
     background-color: #ffcdce;
 }
+.category-items:hover {
+    cursor: pointer;
+}
 .area-heading{
     font-size: 36px;
     color: #00a6bb;
